@@ -13,25 +13,7 @@ Tecnologías:
  -  nodejs
  -  MySql
  -  git
- 
- Comandos útiles:
- - python manage.py runserver: para levantar django en local
- - python manage.py makemigrations: para crear nuevas migraciones
- - python manage.py migrate: para aplicar las migraciones
- - python -m pip install {package_name}: para instalar nuevos paquetes en python
- - python -m pip install -r requirements.txt: para instalar python dependencias
- - npm start: para levantar react
- - npm i: para instalar las dependencias de react
- - docker-compose up: para levantar docker
- - docker-compose build: para conctruir docker  
- - pytest: para ejecutar los test este comando debe ejecutarse en la carpeta de la api python al nivel del manage.py
- - coverage run pytest: lo mismo que pytest pero esta vez muestra el coverage
- 
- Estrategia de Git(https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy):
- - Para cada tarea que se trabaje se debe crear una nueva rama con el nombre de la tarea
- - Cuando se completa una tarea en local se hace push de esa rama al github (nunca mergear en local contra main)
- - Una vez la rama arriba en el github, se hace una PR(https://www.youtube.com/watch?v=cZHP4tkUDsg) contra main a un dev que debe revisar el código
- - Una vez aprobada la PR se completa el merge en git hub
+
     
 ## Autores
 
@@ -40,7 +22,7 @@ Tecnologías:
   
 ## Documentación
 
-[Documentation](https://linktodocumentation)
+[Documentación]([https://linktodocumentation](https://github.com/GetItDone-GID/Manuales/blob/main/Manual%20de%20usuario%20TATC%20V%201.00%20(1)%20(1).pdf))
 
   
 ## FAQ
@@ -51,22 +33,9 @@ Tecnologías:
 ## Features
 
 - TODO
-
-  
-## Licencia
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
   
 ## Usado por
 
-This project is used by the following companies:
+Este proyecto es utilizado por las siguientes empresas:
 
 - TODO
-
-  
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
