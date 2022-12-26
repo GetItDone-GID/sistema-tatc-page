@@ -23,16 +23,6 @@ Tecnologías:
 ## Documentación
 
 [Documentación](https://github.com/GetItDone-GID/Manuales/blob/main/Manual%20de%20usuario%20TATC%20V%201.00%20(1)%20(1).pdf)
-
-  
-## FAQ
-
-- TODO
-
-  
-## Features
-
-- TODO
   
 ## Usado por
 
