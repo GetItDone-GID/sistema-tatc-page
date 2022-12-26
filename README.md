@@ -17,7 +17,7 @@ Tecnologías:
     
 ## Autores
 
-- [@GID](https://github.com/GetItDone-GID)
+- [@GID](https://gitdone.eu/)
 
   
 ## Documentación
